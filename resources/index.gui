@@ -1,0 +1,4 @@
+<svg class="background">
+  <image id="bgImage" href="/private/data/today.jpg"/>
+  <text id="myLabel" />
+</svg>

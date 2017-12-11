@@ -1,0 +1,17 @@
+{
+  "fitbit": {
+    "appUUID": "3f15635b-c5bf-45cd-af23-186c6b0cdaf2",
+    "appType": "clockface",
+    "appDisplayName": "NASA Daily",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "i18n": {
+      "en": {
+        "name": "NASA Daily"
+      }
+    }
+  }
+}
